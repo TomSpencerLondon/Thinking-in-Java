@@ -1,5 +1,12 @@
 package com.codurance.everythingisanobject;
 
+/** Exercise 5
+ * Exercise 5: (1) Modify the previous exercise so that the
+ * values of the data in DataOnly are assigned to and printed in main( ).
+ * @author Tom Spencer
+ * @author https://github.com/TomSpencerLondon
+ * @version 4.0
+ */
 public class Exercise5 {
     public static void main(String[] args) {
         Exercise4.DataOnly data = new Exercise4.DataOnly();
